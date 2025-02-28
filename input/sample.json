@@ -1,7 +1,5 @@
-[
-    {
-        "name": "John Doe",
-        "age": 30,
-        "isEmployed": true
-    }
-]
+{
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Age": 30
+}
